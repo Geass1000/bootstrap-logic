@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-logic",
+  "version": "1.0.0",
+  "description": "bootstrap-logic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geass1000/bootstrap-logic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geass1000/bootstrap-logic/issues"
+  },
+  "homepage": "https://github.com/Geass1000/bootstrap-logic#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.6.1",
+    "@typescript-eslint/parser": "^2.6.1",
+    "del": "^5.1.0",
+    "eslint": "^6.6.0",
+    "gulp": "^4.0.2",
+    "gulp-eslint": "^6.0.0",
+    "gulp-mocha": "^7.0.2",
+    "gulp-typescript": "^5.0.1",
+    "typescript": "^3.7.2"
+  }
+}
